@@ -1,37 +1,5 @@
-
-<!DOCTYPE html>
-<html>
-<head>
-
-    <!-- /.website title -->
-    <title>Barathon</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
-    <meta charset="utf-8">
-
-    <!-- CSS Files -->
-    {% block stylesheets %}
-        <link href="{{ asset('assets/css/bootstrap.min.css')}}" rel="stylesheet" media="screen">
-        <link href="{{ asset('assets/css/font-awesome.min.css') }}" rel="stylesheet">
-        <link href="{{ asset('assets/css/fonts/icon-7-stroke/css/pe-icon-7-stroke.css') }}" rel="stylesheet">
-        <link href="{{ asset('assets/css/animate.css') }}" rel="stylesheet" media="screen">
-        <link href="{{ asset('assets/css/owl.theme.css') }}" rel="stylesheet">
-        <link href="{{ asset('assets/css/owl.carousel.css') }}" rel="stylesheet">
-        <link href="{{ asset('assets/fonts/icon-7-stroke/css/helper.css') }}" rel="stylesheet">
-        <link href="{{ asset('assets/fonts/icon-7-stroke/css/pe-icon-7-stroke.css') }}" rel="stylesheet">
-        <!-- Colors -->
-        <!--<link href="css/css-index.css" rel="stylesheet" media="screen">-->
-        <!-- <link href="css/css-index-green.css" rel="stylesheet" media="screen"> -->
-        <!-- <link href="css/css-index-purple.css" rel="stylesheet" media="screen"> -->
-        <!-- <link href="css/css-index-red.css" rel="stylesheet" media="screen"> -->
-        <link href="{{ asset('assets/css/css-index-orange.css') }}" rel="stylesheet" media="screen">
-        <!-- <link href="css/css-index-yellow.css" rel="stylesheet" media="screen"> -->
-    {% endblock %}
-
-    <!-- Google Fonts -->
-    <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Lato:100,300,400,700,900,100italic,300italic,400italic,700italic,900italic" />
-
-</head>
-
+{% extends 'layout.html.twig' %}
+{% block page %}
 <body data-spy="scroll" data-target="#navbar-scroll">
 
 <!-- /.preloader -->
@@ -375,15 +343,4 @@
     </div>
 </footer>
 
-<!-- /.javascript files -->
-<script src="{{ asset('assets/js/jquery.js') }}"></script>
-<script src="{{ asset('assets/js/bootstrap.min.js') }}"></script>
-<script src="{{ asset('assets/js/custom.js') }}"></script>
-<script src="{{ asset('assets/js/jquery.sticky.js') }}"></script>
-<script src="{{ asset('assets/js/wow.min.js') }}"></script>
-<script src="{{ asset('assets/js/owl.carousel.min.js') }}"></script>
-<script>
-    new WOW().init();
-</script>
-</body>
-</html>
+{% endblock %}
