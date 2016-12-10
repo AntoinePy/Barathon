@@ -1,0 +1,3 @@
+barathon_index:
+    resource: "@BarathonIndexBundle/Resources/config/routing.yml"
+    prefix:   /

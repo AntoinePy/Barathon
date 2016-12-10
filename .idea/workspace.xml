@@ -1,0 +1,597 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="38bc1396-1719-46ba-bf4a-84f0e3e73848" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/var/cache/.gitkeep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/var/logs/.gitkeep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/var/sessions/.gitkeep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/apple-touch-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/fonts/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/fonts/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/fonts/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/fonts/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/fonts/icon-7-stroke/fonts/Pe-icon-7-stroke.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/fonts/icon-7-stroke/fonts/Pe-icon-7-stroke.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/fonts/icon-7-stroke/fonts/Pe-icon-7-stroke.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/images/bar.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/images/beer.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/images/bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/images/client.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/images/company.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/images/exemple.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/images/feature-image.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/images/feature2-image.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/images/header-phone.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/images/intro-image.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/images/loading.GIF" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/images/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/images/logo2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/images/offers.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/images/screenshot.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/Barathon.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/.htaccess" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/AppCache.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/AppKernel.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/views/base.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/views/default/index.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/autoload.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/config/config.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/config/config_dev.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/config/config_prod.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/config/config_test.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/config/parameters.yml.dist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/config/routing.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/config/routing_dev.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/config/security.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/config/services.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/console" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/symfony_requirements" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/composer.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/composer.lock" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpunit.xml.dist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.htaccess" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Barathon/IndexBundle/BarathonIndexBundle.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Barathon/IndexBundle/Controller/FrontPageController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Barathon/IndexBundle/DependencyInjection/BarathonIndexExtension.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Barathon/IndexBundle/DependencyInjection/Configuration.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Barathon/IndexBundle/Resources/config/routing.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Barathon/IndexBundle/Resources/config/services.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Barathon/IndexBundle/Resources/views/Index/index.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Barathon/IndexBundle/Tests/Controller/DefaultControllerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/AppBundle/Controller/DefaultControllerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/var/SymfonyRequirements.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.htaccess" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app_dev.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/css/animate.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/css/animate.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/css/bootstrap-theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/css/bootstrap-theme.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/css/bootstrap-theme.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/css/bootstrap.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/css/css-app-green.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/css/css-app-orange.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/css/css-app-purple.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/css/css-app-red.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/css/css-app-yellow.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/css/css-app.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/css/css-index-green.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/css/css-index-orange.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/css/css-index-purple.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/css/css-index-red.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/css/css-index-yellow.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/css/css-index.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/css/css-intro.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/css/font-awesome.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/css/font-awesome.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/css/owl.carousel.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/css/owl.theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/fonts/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/fonts/icon-7-stroke/css/helper.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/fonts/icon-7-stroke/css/pe-icon-7-stroke.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/fonts/icon-7-stroke/fonts/Pe-icon-7-stroke.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/images/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/images/.idea/images.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/images/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/images/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/images/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/images/barathon.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/js/custom.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/js/ekko-lightbox-min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/js/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/js/jquery.sticky.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/js/owl.carousel.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/js/wow.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/config.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/robots.txt" />
+    </list>
+    <ignored path="Barathon.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="Barathon" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="animate.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/assets/css/animate.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="36" column="42" selection-start-line="36" selection-start-column="41" selection-end-line="36" selection-end-column="42" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bootstrap.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/assets/css/bootstrap.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="49810">
+              <caret line="2930" column="19" selection-start-line="2930" selection-start-column="14" selection-end-line="2930" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html.twig" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Barathon/IndexBundle/Resources/views/Index/index.html.twig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2033">
+              <caret line="291" column="77" selection-start-line="291" selection-start-column="77" selection-end-line="291" selection-end-column="77" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pe-icon-7-stroke.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/assets/fonts/icon-7-stroke/css/pe-icon-7-stroke.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Twig" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Barathon/IndexBundle/Resources/views/Default/index.html.twig" />
+        <option value="$PROJECT_DIR$/src/Barathon/IndexBundle/Controller/FrontPage.php" />
+        <option value="$PROJECT_DIR$/app/AppKernel.php" />
+        <option value="$PROJECT_DIR$/app/config/routing.yml" />
+        <option value="$PROJECT_DIR$/src/Barathon/IndexBundle/Controller/DefaultController.php" />
+        <option value="$PROJECT_DIR$/src/Barathon/IndexBundle/Resources/config/routing.yml" />
+        <option value="$PROJECT_DIR$/src/Barathon/IndexBundle/Controller/FrontPageController.php" />
+        <option value="$PROJECT_DIR$/src/Barathon/IndexBundle/Resources/views/Index/index.html.twig" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-1" />
+    <option name="y" value="-4" />
+    <option name="width" value="1922" />
+    <option name="height" value="1085" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="2" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Barathon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Barathon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Barathon" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="database.main" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/web/assets/images" />
+      <recent name="$PROJECT_DIR$/web/assets" />
+      <recent name="$PROJECT_DIR$/web/bundles/framework" />
+      <recent name="$PROJECT_DIR$/web/bundles/framework/images" />
+      <recent name="$PROJECT_DIR$/web/bundles/framework/css" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="38bc1396-1719-46ba-bf4a-84f0e3e73848" name="Default" comment="" />
+      <created>1480336734636</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1480336734636</updated>
+      <workItem from="1480336735858" duration="581000" />
+      <workItem from="1481029916250" duration="3319000" />
+      <workItem from="1481365506597" duration="346000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="4246000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1" y="-4" width="1922" height="1085" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25827107" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32939914" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32939914" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/web/assets/css/animate.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="36" column="42" selection-start-line="36" selection-start-column="41" selection-end-line="36" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/assets/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="49810">
+          <caret line="2930" column="19" selection-start-line="2930" selection-start-column="14" selection-end-line="2930" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Barathon/IndexBundle/Resources/views/Index/index.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/assets/fonts/icon-7-stroke/css/pe-icon-7-stroke.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Barathon/IndexBundle/BarathonIndexBundle.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Barathon/IndexBundle/Resources/views/Default/index.html.twig" />
+    <entry file="file://$PROJECT_DIR$/src/Barathon/IndexBundle/DependencyInjection/Configuration.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Barathon/IndexBundle/DependencyInjection/BarathonIndexExtension.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Barathon/IndexBundle/DependencyInjection/BarathonIndexExtension.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Barathon/IndexBundle/Resources/views/Default/index.html.twig" />
+    <entry file="file://$PROJECT_DIR$/src/Barathon/IndexBundle/Resources/config/services.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Barathon/IndexBundle/Controller/DefaultController.php" />
+    <entry file="file://$PROJECT_DIR$/src/Barathon/IndexBundle/DependencyInjection/Configuration.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Barathon/IndexBundle/Resources/config/routing.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="58" selection-start-line="2" selection-start-column="58" selection-end-line="2" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1479697598000" expanded="true" signature="0:62" placeholder="&lt;IfModule mod_authz_core.c&gt;" />
+            <marker date="1479697598000" expanded="true" signature="63:142" placeholder="&lt;IfModule !mod_authz_core.c&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Barathon/IndexBundle/BarathonIndexBundle.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/routing.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="15" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/routing_dev.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-356">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Barathon/IndexBundle/Controller/FrontPageController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="55" selection-start-line="16" selection-start-column="55" selection-end-line="16" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/bundles/framework/css/animate.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-51">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/bundles/framework/js/custom.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/bundles/framework/fonts/icon-7-stroke/css/helper.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/assets/css/css-index-orange.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="979" column="14" selection-start-line="979" selection-start-column="9" selection-end-line="979" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/assets/css/owl.theme.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="421">
+          <caret line="77" column="50" selection-start-line="77" selection-start-column="48" selection-end-line="77" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/AppKernel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/AppCache.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/autoload.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/assets/css/animate.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="36" column="42" selection-start-line="36" selection-start-column="41" selection-end-line="36" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/assets/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="49810">
+          <caret line="2930" column="19" selection-start-line="2930" selection-start-column="14" selection-end-line="2930" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/assets/fonts/icon-7-stroke/css/pe-icon-7-stroke.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/assets/images/images/.idea/misc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Barathon/IndexBundle/Resources/views/Index/index.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2033">
+          <caret line="291" column="77" selection-start-line="291" selection-start-column="77" selection-end-line="291" selection-end-column="77" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

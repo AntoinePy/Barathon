@@ -1,0 +1,3 @@
+barathon_index_homepage:
+    path:     /
+    defaults: { _controller: BarathonIndexBundle:FrontPage:index }
