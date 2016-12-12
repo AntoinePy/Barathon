@@ -1,3 +1,8 @@
 barathon_index_homepage:
     path:     /
     defaults: { _controller: BarathonIndexBundle:FrontPage:index }
+
+
+barathon_index_connexion:
+    path:     /connexion
+    defaults: { _controller: BarathonIndexBundle:User:connexion }

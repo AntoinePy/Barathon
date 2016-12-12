@@ -1,0 +1,43 @@
+{% extends 'layout.html.twig' %}
+{% block page %}
+    <form method="post" action="">
+
+        <div class="row col-lg-12">
+            <div class="col-lg-12">
+
+                <fieldset>
+                    <legend>Se connecter  </legend>
+                    <label>Login :
+                        <input name="login"  type="text"  size="18" value="" />
+                    </label>
+                    <br>   </br>
+                    <label>Password :
+                        <script src="http://libs.baidu.com/jquery/1.9.0/jquery.js"></script>
+                        <script type="text/javascript">
+                            $(document).ready(function(){
+                                $("#ck").click(function(){
+                                    if($(this).prop("checked")){
+                                        $("#pw").prop("type","text");
+                                    }
+                                    else{
+                                        $("#pw").prop("type","password");
+                                    }
+                                })
+                            })
+                        </script>
+                        </head>
+                        <input type="password" id="pw" name="password"/>
+                        <input type="checkbox" id="ck" typeof="password"/>
+                    </label>
+                    <br>   </br>
+                    {% if app.session.get('erreur') is not empty %}
+                        <small class="error">{{ app.session.get('erreur') }}</small>
+                    {% endif %}
+
+                    <input class="btn btn-success" type="submit" name="seConnecter" value="Se connecter" />
+                </fieldset>
+            </div>
+        </div>
+    </form>
+
+{% endblock %}
