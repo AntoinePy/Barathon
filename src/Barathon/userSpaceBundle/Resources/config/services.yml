@@ -1,0 +1,4 @@
+services:
+#    barathonuser_space.example:
+#        class: Barathon\userSpaceBundle\Example
+#        arguments: ["@service_id", "plain_value", "%parameter%"]

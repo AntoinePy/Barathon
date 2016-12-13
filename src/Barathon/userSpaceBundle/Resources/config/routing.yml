@@ -1,0 +1,3 @@
+test_front_page:
+    path: /userSpace
+    defaults: { _controller: BarathonuserSpaceBundle:HomePage:homePage }

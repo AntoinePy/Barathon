@@ -1,3 +1,7 @@
+barathonuser_space:
+    resource: "@BarathonuserSpaceBundle/Resources/config/routing.yml"
+    prefix:   /
+
 barathon_index:
     resource: "@BarathonIndexBundle/Resources/config/routing.yml"
     prefix:   /
