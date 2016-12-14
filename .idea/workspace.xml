@@ -1,174 +1,454 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="38bc1396-1719-46ba-bf4a-84f0e3e73848" name="Default" comment="add layout in app/Ressources/views">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/font/fontawesome-webfont-0.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/font/fontawesome-webfont-62877.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/font/fontawesome-webfont-62877.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/font/fontawesome-webfont-62877.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/font/glyphicons-regular-0.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/font/glyphicons-regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/font/glyphicons-regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/font/glyphicons-regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/font/glyphiconshalflings-regular-0.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/font/glyphiconshalflings-regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/font/glyphiconshalflings-regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/font/glyphiconshalflings-regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/img/arrows-active.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/img/arrows-normal.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/img/avatar.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/img/bg-input-focus.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/img/bg-input.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/img/bg-login.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/img/browser-chrome-big.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/img/browser-firefox-big.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/img/browser-ie.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/img/browser-opera.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/img/browser-safari.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/img/buttons.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/img/chat-left-metro.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/img/chat-left-metro@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/img/chat-left.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/img/chat-left@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/img/chat-right-metro.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/img/chat-right-metro@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/img/chat-right.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/img/chat-right@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/img/chosen-sprite.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/img/close-button-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/img/close-button.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/img/crop.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/img/dialogs.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/img/gallery/photo1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/img/gallery/photo10.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/img/gallery/photo11.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/img/gallery/photo12.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/img/gallery/photo13.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/img/gallery/photo2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/img/gallery/photo3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/img/gallery/photo4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/img/gallery/photo5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/img/gallery/photo6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/img/gallery/photo7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/img/gallery/photo8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/img/gallery/photo9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/img/glyphicons-halflings-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/img/glyphicons-halflings.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/img/glyphicons-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/img/glyphicons.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/img/glyphicons_halflings-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/img/glyphicons_halflings.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/img/icons-big.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/img/icons-small.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/img/iphone-style-checkboxes/off-63584.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/img/iphone-style-checkboxes/on-63584.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/img/iphone-style-checkboxes/slider_center-63584.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/img/iphone-style-checkboxes/slider_left-63584.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/img/iphone-style-checkboxes/slider_right-63584.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/img/progress.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/img/quicklook-bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/img/quicklook-icons.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/img/quote.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/img/resize.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/img/slider_r8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/img/spinner-mini.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/img/sprite.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/img/timeline-bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/img/timeline-left-arrow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/img/timeline-left-arrow@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/img/timeline-right-arrow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/img/timeline-right-arrow@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/img/toolbar.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/img/toolbar.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/img/ui-bg_flat_0_aaaaaa_40x100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/img/ui-bg_flat_75_ffffff_40x100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/img/ui-bg_glass_55_fbf9ee_1x400.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/img/ui-bg_glass_65_ffffff_1x400.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/img/ui-bg_glass_75_dadada_1x400.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/img/ui-bg_glass_75_e6e6e6_1x400.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/img/ui-bg_glass_95_fef1ec_1x400.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/img/ui-bg_highlight-soft_75_cccccc_1x100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/img/ui-icons_222222_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/img/ui-icons_2e83ff_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/img/ui-icons_454545_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/img/ui-icons_888888_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/img/ui-icons_cd0a0a_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/img/uploadify-cancel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/views/frontpageLayout.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Barathon/userSpaceBundle/BarathonuserSpaceBundle.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Barathon/userSpaceBundle/Controller/DefaultController.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Barathon/userSpaceBundle/Controller/HomePageController.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Barathon/userSpaceBundle/DependencyInjection/BarathonuserSpaceExtension.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Barathon/userSpaceBundle/DependencyInjection/Configuration.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Barathon/userSpaceBundle/Resources/config/routing.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Barathon/userSpaceBundle/Resources/config/services.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Barathon/userSpaceBundle/Resources/views/userSpace/homePage.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Barathon/userSpaceBundle/Tests/Controller/DefaultControllerTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/css/bootstrap-responsive.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/css/bootstrap-responsive.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/css/chosen.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/css/elfinder.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/css/elfinder.theme.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/css/font-awesome-ie7.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/css/fullcalendar.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/css/glyphicons.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/css/halflings.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/css/ie.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/css/ie9.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/css/jquery-ui-1.8.21.custom.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/css/jquery.cleditor.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/css/jquery.gritter.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/css/jquery.iphone.toggle.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/css/jquery.noty.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/css/noty_theme_default.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/css/style-forms.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/css/style-responsive.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/css/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/css/uniform.default.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/css/uploadify.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/font/glyphicons-regular.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/font/glyphiconshalflings-regular.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/img/glyphicons-white.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/img/glyphicons.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/img/glyphicons_halflings-white.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/img/glyphicons_halflings.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/js/counter.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/js/excanvas.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/js/fullcalendar.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/js/jquery-1.9.1.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/js/jquery-migrate-1.0.0.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/js/jquery-ui-1.10.0.custom.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/js/jquery.chosen.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/js/jquery.cleditor.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/js/jquery.cookie.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/js/jquery.dataTables.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/js/jquery.elfinder.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/js/jquery.flot.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/js/jquery.flot.pie.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/js/jquery.flot.resize.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/js/jquery.flot.stack.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/js/jquery.gritter.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/js/jquery.imagesloaded.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/js/jquery.iphone.toggle.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/js/jquery.knob.modified.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/js/jquery.masonry.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/js/jquery.noty.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/js/jquery.raty.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/js/jquery.sparkline.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/js/jquery.ui.touch-punch.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/js/jquery.uniform.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/js/jquery.uploadify-3.1.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/js/modernizr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/js/retina.js" />
+    <list default="true" id="38bc1396-1719-46ba-bf4a-84f0e3e73848" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/frontPage/fonts/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/frontPage/fonts/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/frontPage/fonts/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/frontPage/fonts/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/frontPage/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/frontPage/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/frontPage/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/frontPage/fonts/icon-7-stroke/fonts/Pe-icon-7-stroke.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/frontPage/fonts/icon-7-stroke/fonts/Pe-icon-7-stroke.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/frontPage/fonts/icon-7-stroke/fonts/Pe-icon-7-stroke.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/frontPage/images/bar.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/frontPage/images/bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/frontPage/images/client.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/frontPage/images/company.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/frontPage/images/exemple.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/frontPage/images/feature-image.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/frontPage/images/feature2-image.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/frontPage/images/header-phone.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/frontPage/images/intro-image.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/frontPage/images/loading.GIF" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/frontPage/images/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/frontPage/images/logo2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/frontPage/images/screenshot.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/font/fontawesome-webfont-0.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/font/fontawesome-webfont-62877.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/font/fontawesome-webfont-62877.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/font/fontawesome-webfont-62877.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/font/glyphicons-regular-0.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/font/glyphicons-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/font/glyphicons-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/font/glyphicons-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/font/glyphiconshalflings-regular-0.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/font/glyphiconshalflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/font/glyphiconshalflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/font/glyphiconshalflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/img/arrows-active.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/img/arrows-normal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/img/avatar.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/img/bg-input-focus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/img/bg-input.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/img/bg-login.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/img/browser-chrome-big.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/img/browser-firefox-big.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/img/browser-ie.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/img/browser-opera.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/img/browser-safari.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/img/buttons.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/img/chat-left-metro.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/img/chat-left-metro@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/img/chat-left.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/img/chat-left@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/img/chat-right-metro.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/img/chat-right-metro@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/img/chat-right.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/img/chat-right@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/img/chosen-sprite.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/img/close-button-white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/img/close-button.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/img/crop.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/img/dialogs.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/img/gallery/photo1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/img/gallery/photo10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/img/gallery/photo11.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/img/gallery/photo12.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/img/gallery/photo13.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/img/gallery/photo2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/img/gallery/photo3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/img/gallery/photo4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/img/gallery/photo5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/img/gallery/photo6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/img/gallery/photo7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/img/gallery/photo8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/img/gallery/photo9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/img/glyphicons-halflings-white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/img/glyphicons-halflings.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/img/glyphicons-white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/img/glyphicons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/img/glyphicons_halflings-white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/img/glyphicons_halflings.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/img/icons-big.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/img/icons-small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/img/iphone-style-checkboxes/off-63584.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/img/iphone-style-checkboxes/on-63584.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/img/iphone-style-checkboxes/slider_center-63584.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/img/iphone-style-checkboxes/slider_left-63584.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/img/iphone-style-checkboxes/slider_right-63584.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/img/progress.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/img/quicklook-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/img/quicklook-icons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/img/quote.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/img/resize.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/img/slider_r8.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/img/spinner-mini.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/img/sprite.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/img/timeline-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/img/timeline-left-arrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/img/timeline-left-arrow@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/img/timeline-right-arrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/img/timeline-right-arrow@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/img/toolbar.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/img/toolbar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/img/ui-bg_flat_0_aaaaaa_40x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/img/ui-bg_flat_75_ffffff_40x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/img/ui-bg_glass_55_fbf9ee_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/img/ui-bg_glass_65_ffffff_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/img/ui-bg_glass_75_dadada_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/img/ui-bg_glass_75_e6e6e6_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/img/ui-bg_glass_95_fef1ec_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/img/ui-bg_highlight-soft_75_cccccc_1x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/img/ui-icons_222222_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/img/ui-icons_2e83ff_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/img/ui-icons_454545_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/img/ui-icons_888888_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/img/ui-icons_cd0a0a_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/img/uploadify-cancel.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/frontPage/css/animate.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/frontPage/css/animate.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/frontPage/css/bootstrap-theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/frontPage/css/bootstrap-theme.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/frontPage/css/bootstrap-theme.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/frontPage/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/frontPage/css/bootstrap.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/frontPage/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/frontPage/css/css-app-green.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/frontPage/css/css-app-orange.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/frontPage/css/css-app-purple.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/frontPage/css/css-app-red.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/frontPage/css/css-app-yellow.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/frontPage/css/css-app.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/frontPage/css/css-index-green.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/frontPage/css/css-index-orange.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/frontPage/css/css-index-purple.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/frontPage/css/css-index-red.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/frontPage/css/css-index-yellow.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/frontPage/css/css-index.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/frontPage/css/css-intro.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/frontPage/css/font-awesome.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/frontPage/css/font-awesome.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/frontPage/css/owl.carousel.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/frontPage/css/owl.theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/frontPage/fonts/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/frontPage/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/frontPage/fonts/icon-7-stroke/css/helper.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/frontPage/fonts/icon-7-stroke/css/pe-icon-7-stroke.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/frontPage/fonts/icon-7-stroke/fonts/Pe-icon-7-stroke.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/frontPage/images/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/frontPage/images/.idea/images.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/frontPage/images/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/frontPage/images/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/frontPage/images/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/frontPage/images/barathon.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/frontPage/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/frontPage/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/frontPage/js/custom.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/frontPage/js/ekko-lightbox-min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/frontPage/js/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/frontPage/js/jquery.sticky.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/frontPage/js/owl.carousel.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/frontPage/js/wow.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/css/bootstrap-responsive.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/css/bootstrap-responsive.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/css/chosen.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/css/elfinder.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/css/elfinder.theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/css/font-awesome-ie7.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/css/font-awesome.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/css/fullcalendar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/css/glyphicons.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/css/halflings.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/css/ie.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/css/ie9.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/css/jquery-ui-1.8.21.custom.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/css/jquery.cleditor.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/css/jquery.gritter.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/css/jquery.iphone.toggle.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/css/jquery.noty.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/css/noty_theme_default.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/css/style-forms.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/css/style-responsive.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/css/uniform.default.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/css/uploadify.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/font/glyphicons-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/font/glyphiconshalflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/img/glyphicons-white.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/img/glyphicons.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/img/glyphicons_halflings-white.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/img/glyphicons_halflings.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/js/counter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/js/custom.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/js/excanvas.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/js/fullcalendar.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/js/jquery-1.9.1.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/js/jquery-migrate-1.0.0.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/js/jquery-ui-1.10.0.custom.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/js/jquery.chosen.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/js/jquery.cleditor.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/js/jquery.cookie.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/js/jquery.dataTables.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/js/jquery.elfinder.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/js/jquery.flot.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/js/jquery.flot.pie.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/js/jquery.flot.resize.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/js/jquery.flot.stack.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/js/jquery.gritter.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/js/jquery.imagesloaded.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/js/jquery.iphone.toggle.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/js/jquery.knob.modified.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/js/jquery.masonry.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/js/jquery.noty.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/js/jquery.raty.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/js/jquery.sparkline.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/js/jquery.ui.touch-punch.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/js/jquery.uniform.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/js/jquery.uploadify-3.1.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/js/modernizr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/js/retina.js" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/SymfonyRequirements.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/.gitkeep" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/logs/.gitkeep" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/sessions/.gitkeep" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/css/animate.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/css/animate.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/css/bootstrap-responsive.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/css/bootstrap-responsive.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/css/bootstrap-theme.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/css/bootstrap-theme.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/css/bootstrap-theme.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/css/bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/css/bootstrap.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/css/bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/css/chosen.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/css/css-app-green.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/css/css-app-orange.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/css/css-app-purple.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/css/css-app-red.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/css/css-app-yellow.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/css/css-app.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/css/css-index-green.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/css/css-index-orange.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/css/css-index-purple.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/css/css-index-red.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/css/css-index-yellow.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/css/css-index.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/css/css-intro.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/css/elfinder.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/css/elfinder.theme.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/css/font-awesome-ie7.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/css/font-awesome.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/css/font-awesome.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/css/fullcalendar.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/css/glyphicons.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/css/halflings.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/css/ie.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/css/ie9.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/css/jquery-ui-1.8.21.custom.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/css/jquery.cleditor.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/css/jquery.gritter.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/css/jquery.iphone.toggle.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/css/jquery.noty.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/css/noty_theme_default.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/css/owl.carousel.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/css/owl.theme.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/css/style-forms.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/css/style-responsive.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/css/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/css/uniform.default.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/css/uploadify.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/font/fontawesome-webfont-0.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/font/fontawesome-webfont-62877.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/font/fontawesome-webfont-62877.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/font/fontawesome-webfont-62877.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/font/glyphicons-regular-0.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/font/glyphicons-regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/font/glyphicons-regular.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/font/glyphicons-regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/font/glyphicons-regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/font/glyphiconshalflings-regular-0.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/font/glyphiconshalflings-regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/font/glyphiconshalflings-regular.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/font/glyphiconshalflings-regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/font/glyphiconshalflings-regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/fonts/FontAwesome.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/fonts/fontawesome-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/fonts/fontawesome-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/fonts/fontawesome-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/fonts/fontawesome-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/fonts/glyphicons-halflings-regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/fonts/glyphicons-halflings-regular.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/fonts/glyphicons-halflings-regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/fonts/icon-7-stroke/css/helper.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/fonts/icon-7-stroke/css/pe-icon-7-stroke.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/fonts/icon-7-stroke/fonts/Pe-icon-7-stroke.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/fonts/icon-7-stroke/fonts/Pe-icon-7-stroke.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/fonts/icon-7-stroke/fonts/Pe-icon-7-stroke.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/fonts/icon-7-stroke/fonts/Pe-icon-7-stroke.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/images/.idea/copyright/profiles_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/images/.idea/images.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/images/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/images/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/images/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/images/bar.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/images/barathon.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/images/beer.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/images/bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/images/client.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/images/company.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/images/exemple.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/images/feature-image.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/images/feature2-image.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/images/header-phone.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/images/intro-image.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/images/loading.GIF" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/images/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/images/logo2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/images/offers.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/images/screenshot.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/img/arrows-active.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/img/arrows-normal.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/img/avatar.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/img/bg-input-focus.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/img/bg-input.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/img/bg-login.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/img/browser-chrome-big.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/img/browser-firefox-big.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/img/browser-ie.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/img/browser-opera.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/img/browser-safari.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/img/buttons.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/img/chat-left-metro.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/img/chat-left-metro@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/img/chat-left.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/img/chat-left@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/img/chat-right-metro.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/img/chat-right-metro@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/img/chat-right.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/img/chat-right@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/img/chosen-sprite.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/img/close-button-white.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/img/close-button.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/img/crop.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/img/dialogs.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/img/gallery/photo1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/img/gallery/photo10.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/img/gallery/photo11.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/img/gallery/photo12.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/img/gallery/photo13.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/img/gallery/photo2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/img/gallery/photo3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/img/gallery/photo4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/img/gallery/photo5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/img/gallery/photo6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/img/gallery/photo7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/img/gallery/photo8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/img/gallery/photo9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/img/glyphicons-halflings-white.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/img/glyphicons-halflings.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/img/glyphicons-white.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/img/glyphicons-white.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/img/glyphicons.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/img/glyphicons.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/img/glyphicons_halflings-white.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/img/glyphicons_halflings-white.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/img/glyphicons_halflings.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/img/glyphicons_halflings.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/img/icons-big.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/img/icons-small.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/img/iphone-style-checkboxes/off-63584.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/img/iphone-style-checkboxes/on-63584.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/img/iphone-style-checkboxes/slider_center-63584.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/img/iphone-style-checkboxes/slider_left-63584.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/img/iphone-style-checkboxes/slider_right-63584.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/img/progress.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/img/quicklook-bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/img/quicklook-icons.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/img/quote.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/img/resize.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/img/slider_r8.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/img/spinner-mini.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/img/sprite.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/img/timeline-bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/img/timeline-left-arrow.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/img/timeline-left-arrow@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/img/timeline-right-arrow.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/img/timeline-right-arrow@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/img/toolbar.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/img/toolbar.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/img/ui-bg_flat_0_aaaaaa_40x100.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/img/ui-bg_flat_75_ffffff_40x100.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/img/ui-bg_glass_55_fbf9ee_1x400.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/img/ui-bg_glass_65_ffffff_1x400.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/img/ui-bg_glass_75_dadada_1x400.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/img/ui-bg_glass_75_e6e6e6_1x400.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/img/ui-bg_glass_95_fef1ec_1x400.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/img/ui-bg_highlight-soft_75_cccccc_1x100.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/img/ui-icons_222222_256x240.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/img/ui-icons_2e83ff_256x240.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/img/ui-icons_454545_256x240.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/img/ui-icons_888888_256x240.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/img/ui-icons_cd0a0a_256x240.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/img/uploadify-cancel.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/js/bootstrap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/js/bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/js/counter.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/js/custom.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/js/ekko-lightbox-min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/js/excanvas.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/js/fullcalendar.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/js/jquery-1.9.1.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/js/jquery-migrate-1.0.0.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/js/jquery-ui-1.10.0.custom.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/js/jquery.chosen.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/js/jquery.cleditor.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/js/jquery.cookie.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/js/jquery.dataTables.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/js/jquery.elfinder.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/js/jquery.flot.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/js/jquery.flot.pie.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/js/jquery.flot.resize.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/js/jquery.flot.stack.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/js/jquery.gritter.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/js/jquery.imagesloaded.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/js/jquery.iphone.toggle.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/js/jquery.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/js/jquery.knob.modified.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/js/jquery.masonry.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/js/jquery.noty.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/js/jquery.raty.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/js/jquery.sparkline.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/js/jquery.sticky.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/js/jquery.ui.touch-punch.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/js/jquery.uniform.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/js/jquery.uploadify-3.1.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/js/modernizr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/js/owl.carousel.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/js/retina.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/js/wow.min.js" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/AppKernel.php" afterPath="$PROJECT_DIR$/app/AppKernel.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/config/routing.yml" afterPath="$PROJECT_DIR$/app/config/routing.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/assets/css/bootstrap.css" afterPath="$PROJECT_DIR$/web/assets/css/bootstrap.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/assets/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/web/assets/css/bootstrap.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/assets/css/font-awesome.min.css" afterPath="$PROJECT_DIR$/web/assets/css/font-awesome.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/assets/js/bootstrap.js" afterPath="$PROJECT_DIR$/web/assets/js/bootstrap.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/assets/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/web/assets/js/bootstrap.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/assets/js/custom.js" afterPath="$PROJECT_DIR$/web/assets/js/custom.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Resources/views/frontpageLayout.html.twig" afterPath="$PROJECT_DIR$/app/Resources/views/frontpageLayout.html.twig" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Resources/views/layout.html.twig" afterPath="$PROJECT_DIR$/app/Resources/views/layout.html.twig" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Barathon/IndexBundle/Resources/views/Index/index.html.twig" afterPath="$PROJECT_DIR$/src/Barathon/IndexBundle/Resources/views/Index/index.html.twig" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Barathon/userSpaceBundle/Resources/views/userSpace/homePage.html.twig" afterPath="$PROJECT_DIR$/src/Barathon/userSpaceBundle/Resources/views/userSpace/homePage.html.twig" />
     </list>
     <ignored path="Barathon.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -190,63 +470,26 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="animate.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/assets/css/animate.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="612">
-              <caret line="36" column="42" selection-start-line="36" selection-start-column="41" selection-end-line="36" selection-end-column="42" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html.twig" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html.twig" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Barathon/IndexBundle/Resources/views/Index/index.html.twig">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="12" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="12" />
+            <state relative-caret-position="894">
+              <caret line="167" column="90" selection-start-line="167" selection-start-column="90" selection-end-line="167" selection-end-column="90" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="frontpageLayout.html.twig" pinned="false" current-in-tab="true">
+      <file leaf-file-name="frontpageLayout.html.twig" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/Resources/views/frontpageLayout.html.twig">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="65">
-              <caret line="67" column="53" selection-start-line="67" selection-start-column="17" selection-end-line="67" selection-end-column="53" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DefaultController.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Barathon/userSpaceBundle/Controller/DefaultController.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="12" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="routing.yml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Barathon/userSpaceBundle/Resources/config/routing.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="70" selection-start-line="2" selection-start-column="70" selection-end-line="2" selection-end-column="70" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HomePageController.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Barathon/userSpaceBundle/Controller/HomePageController.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="72" selection-start-line="16" selection-start-column="72" selection-end-line="16" selection-end-column="72" />
+            <state relative-caret-position="200">
+              <caret line="271" column="135" selection-start-line="271" selection-start-column="135" selection-end-line="271" selection-end-column="135" />
               <folding>
-                <element signature="e#6#86#0#PHP" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#a#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#a#0;n#li#2;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#style#0;n#img#0;n#a#0;n#li#3;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -255,8 +498,18 @@
       <file leaf-file-name="homePage.html.twig" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Barathon/userSpaceBundle/Resources/views/userSpace/homePage.html.twig">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+            <state relative-caret-position="136">
+              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="connexion.html.twig" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Barathon/IndexBundle/Resources/views/User/connexion.html.twig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -272,21 +525,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="layout.html.twig" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/Resources/views/layout.html.twig">
+      <file leaf-file-name="FrontPageController.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Barathon/IndexBundle/Controller/FrontPageController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="606">
-              <caret line="37" column="47" selection-start-line="37" selection-start-column="13" selection-end-line="37" selection-end-column="47" />
+            <state relative-caret-position="170">
+              <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pe-icon-7-stroke.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/assets/fonts/icon-7-stroke/css/pe-icon-7-stroke.css">
+      <file leaf-file-name="layout.html.twig" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Resources/views/layout.html.twig">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="799">
+              <caret line="47" column="7" selection-start-line="47" selection-start-column="7" selection-end-line="47" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -321,12 +574,15 @@
         <option value="$PROJECT_DIR$/src/Barathon/IndexBundle/Resources/config/routing.yml" />
         <option value="$PROJECT_DIR$/src/Barathon/IndexBundle/Controller/FrontPageController.php" />
         <option value="$PROJECT_DIR$/src/Barathon/IndexBundle/Resources/views/Index/layout.html.twig" />
-        <option value="$PROJECT_DIR$/src/Barathon/IndexBundle/Resources/views/Index/index.html.twig" />
         <option value="$PROJECT_DIR$/src/Barathon/userSpaceBundle/Resources/views/Default/index.html.twig" />
         <option value="$PROJECT_DIR$/src/Barathon/userSpaceBundle/Resources/config/routing.yml" />
         <option value="$PROJECT_DIR$/src/Barathon/userSpaceBundle/Controller/HomePageController.php" />
-        <option value="$PROJECT_DIR$/app/Resources/views/frontpageLayout.html.twig" />
+        <option value="$PROJECT_DIR$/web/assets/css/style.css" />
+        <option value="$PROJECT_DIR$/web/assets/css/style-responsive.css" />
         <option value="$PROJECT_DIR$/src/Barathon/userSpaceBundle/Resources/views/userSpace/homePage.html.twig" />
+        <option value="$PROJECT_DIR$/app/Resources/views/frontpageLayout.html.twig" />
+        <option value="$PROJECT_DIR$/app/Resources/views/layout.html.twig" />
+        <option value="$PROJECT_DIR$/src/Barathon/IndexBundle/Resources/views/Index/index.html.twig" />
       </list>
     </option>
   </component>
@@ -420,6 +676,10 @@
               <option name="myItemId" value="assets" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="userSpace" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -439,7 +699,7 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
+              <option name="myItemId" value="frontPage" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -476,36 +736,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="userSpaceBundle" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Barathon" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Barathon" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Barathon" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="userSpaceBundle" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Tests" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Controller" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -568,6 +798,122 @@
               <option name="myItemId" value="Resources" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Barathon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Barathon" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Barathon" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="IndexBundle" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Barathon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Barathon" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Barathon" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="IndexBundle" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Resources" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="User" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Barathon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Barathon" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Barathon" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="IndexBundle" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Resources" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Index" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Barathon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Barathon" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Barathon" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="IndexBundle" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Resources" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="config" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
@@ -591,29 +937,11 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="userSpaceBundle" />
+              <option name="myItemId" value="IndexBundle" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="Controller" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Barathon" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Barathon" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Barathon" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -660,7 +988,7 @@
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="database.main" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../janux" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../demoBarathon" />
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
   <component name="RecentsManager">
@@ -726,7 +1054,8 @@
       <workItem from="1481366749426" duration="1727000" />
       <workItem from="1481463508802" duration="962000" />
       <workItem from="1481624204873" duration="777000" />
-      <workItem from="1481625007507" duration="949000" />
+      <workItem from="1481625007507" duration="1065000" />
+      <workItem from="1481635301574" duration="6482000" />
     </task>
     <task id="LOCAL-00001" summary="add layout in app/Ressources/views">
       <created>1481367533267</created>
@@ -742,23 +1071,30 @@
       <option name="project" value="LOCAL" />
       <updated>1481463528588</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Ajout du bundle USERSPACE (ajout de layout dans Ressources/views | ajout du bundle userSpaceBundle | nouveaux styles ajouter)">
+      <created>1481626060617</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1481626060617</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9085000" />
+    <option name="totallyTimeSpent" value="15683000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="24" width="1920" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2705443" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27374598" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32939914" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32939914" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32939914" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32939914" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -786,36 +1122,14 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit (front page ok with app_dev.php/)" />
     <MESSAGE value="add layout in app/Ressources/views" />
-    <option name="LAST_COMMIT_MESSAGE" value="add layout in app/Ressources/views" />
+    <MESSAGE value="Ajout du bundle USERSPACE (ajout de layout dans Ressources/views | ajout du bundle userSpaceBundle | nouveaux styles ajouter)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ajout du bundle USERSPACE (ajout de layout dans Ressources/views | ajout du bundle userSpaceBundle | nouveaux styles ajouter)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/web/assets/css/animate.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="36" column="42" selection-start-line="36" selection-start-column="41" selection-end-line="36" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/assets/css/bootstrap.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="49810">
-          <caret line="2930" column="19" selection-start-line="2930" selection-start-column="14" selection-end-line="2930" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Barathon/IndexBundle/Resources/views/Index/index.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Barathon/IndexBundle/Resources/config/routing.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -852,6 +1166,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="49810">
           <caret line="2930" column="19" selection-start-line="2930" selection-start-column="14" selection-end-line="2930" selection-end-column="19" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -883,6 +1198,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="49810">
           <caret line="2930" column="19" selection-start-line="2930" selection-start-column="14" selection-end-line="2930" selection-end-column="19" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -982,13 +1298,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Barathon/IndexBundle/Controller/FrontPageController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="55" selection-start-line="16" selection-start-column="55" selection-end-line="16" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/web/bundles/framework/css/animate.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-51">
@@ -1014,13 +1323,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="979" column="14" selection-start-line="979" selection-start-column="9" selection-end-line="979" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/assets/css/owl.theme.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="421">
-          <caret line="77" column="50" selection-start-line="77" selection-start-column="48" selection-end-line="77" selection-end-column="50" />
         </state>
       </provider>
     </entry>
@@ -1057,6 +1359,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="49810">
           <caret line="2930" column="19" selection-start-line="2930" selection-start-column="14" selection-end-line="2930" selection-end-column="19" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1069,25 +1372,10 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/web/assets/images/images/.idea/misc.xml" />
-    <entry file="file://$PROJECT_DIR$/src/Barathon/IndexBundle/Resources/views/Index/index.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="12" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/web/assets/css/ie.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Barathon/IndexBundle/Resources/config/routing.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1111,34 +1399,95 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Barathon/userSpaceBundle/Controller/HomePageController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
+        <state relative-caret-position="187">
           <caret line="16" column="72" selection-start-line="16" selection-start-column="72" selection-end-line="16" selection-end-column="72" />
           <folding>
-            <element signature="e#6#86#0#PHP" expanded="true" />
+            <element signature="e#6#86#0#PHP" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Barathon/IndexBundle/Resources/views/User/connexion.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Barathon/IndexBundle/Resources/config/routing.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Barathon/IndexBundle/Controller/FrontPageController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/assets/css/owl.theme.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="77" column="50" selection-start-line="77" selection-start-column="48" selection-end-line="77" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/assets/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="2501" column="22" selection-start-line="2501" selection-start-column="22" selection-end-line="2501" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/assets/css/style-responsive.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-650">
+          <caret line="469" column="10" selection-start-line="469" selection-start-column="4" selection-end-line="469" selection-end-column="10" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Barathon/userSpaceBundle/Resources/views/userSpace/homePage.html.twig">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Resources/views/layout.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="606">
-          <caret line="37" column="47" selection-start-line="37" selection-start-column="13" selection-end-line="37" selection-end-column="47" />
+        <state relative-caret-position="136">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/Resources/views/frontpageLayout.html.twig">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="65">
-          <caret line="67" column="53" selection-start-line="67" selection-start-column="17" selection-end-line="67" selection-end-column="53" />
+        <state relative-caret-position="200">
+          <caret line="271" column="135" selection-start-line="271" selection-start-column="135" selection-end-line="271" selection-end-column="135" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#a#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#a#0;n#li#2;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#li#3;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Resources/views/layout.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="799">
+          <caret line="47" column="7" selection-start-line="47" selection-start-column="7" selection-end-line="47" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Barathon/IndexBundle/Resources/views/Index/index.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="894">
+          <caret line="167" column="90" selection-start-line="167" selection-start-column="90" selection-end-line="167" selection-end-column="90" />
           <folding />
         </state>
       </provider>
