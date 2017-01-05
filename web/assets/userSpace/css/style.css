@@ -396,7 +396,7 @@ a.brand span {
 =================================================================== */
 
 #sidebar-left {
-	background: #1C2B36;
+	background: #e87714;
 }
 
 .sidebar-nav > ul{
@@ -2493,7 +2493,7 @@ div.uploader{
 
 footer {
 	min-height: 24px;
-	background: #1C2B36;;
+	background: #5b281b;
 	color: #fff !important;
 	-webkit-border-radius: 0px;
 	   -moz-border-radius: 0px;
@@ -2963,17 +2963,17 @@ ul.messagesList li span.date {
 /* Retina Display Hack
 =================================================================== */
 @media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {
-	
+
 	.timeslot .task .arrow {
 		background: url(../img/timeline-left-arrow@2x.png) no-repeat;
 		background-size: 100%;
 	}
-	
+
 	.timeslot.alt .task .arrow {
 		background: url(../img/timeline-right-arrow@2x.png) no-repeat;
 		background-size: 100%;
 	}
-	
+
 	ul.chat li.left .message .arrow {
 		background: url(../img/chat-left@2x.png) no-repeat 0px 0px;
 		background-size: 100%;
@@ -2983,7 +2983,7 @@ ul.messagesList li span.date {
 		background: url(../img/chat-right@2x.png) no-repeat 0px 0px;
 		background-size: 100%;
 	}
-	
+
 	ul.chat.metro li.left .message .arrow {
 		background: url(../img/chat-left-metro@2x.png) no-repeat 0px 0px;
 		background-size: 100%;
@@ -2993,7 +2993,7 @@ ul.messagesList li span.date {
 		background: url(../img/chat-right-metro@2x.png) no-repeat 0px 0px;
 		background-size: 100%;
 	}
-    
+
 }
 .header-nav .badge{
 	position: absolute;
@@ -3005,3 +3005,8 @@ ul.messagesList li span.date {
 .navbar .brand{
 	font-size: 35px;
 }
+
+.nav > li > a:hover, .nav > li > a:focus {
+	background-color: #5b281b;
+}
+

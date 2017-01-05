@@ -1,3 +1,15 @@
 test_front_page:
     path: /userSpace
     defaults: { _controller: BarathonuserSpaceBundle:HomePage:homePage }
+
+profil_user:
+    path: /userSpace/profil
+    defaults: { _controller: BarathonuserSpaceBundle:Profil:profil }
+
+event_user:
+    path: /userSpace/event
+    defaults: { _controller: BarathonuserSpaceBundle:Event:event }
+
+message_user:
+    path: /userSpace/message
+    defaults: { _controller: BarathonuserSpaceBundle:Message:message }

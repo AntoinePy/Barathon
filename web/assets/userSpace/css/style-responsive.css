@@ -16,8 +16,9 @@
 	}
 		
 	#sidebar-left {
-		background: #1C2B36;
-		margin-left: 0px !important;
+		background: #e87714;
+        margin-left: 0px !important;
+		margin-right: 10%;
 		position: absolute;
 		height: 100%;
 	}
@@ -60,9 +61,10 @@
 	
 	
 	#sidebar-left {
-		background: #1C2B36;
+		background: #e87714;
 		margin-left: 0px !important;
-		position: absolute;
+        margin-right: 10%;
+        position: absolute;
 		height: 100%;
 	}
 	
@@ -170,9 +172,10 @@
 	}
 		
 	#sidebar-left {
-		background: #1C2B36;
+		background: #e87714;
 		margin-left: 0px !important;
-		position: absolute;
+        margin-right: 10%;
+        position: absolute;
 		height: 100%;
 		width: 8.334% !important;
 	}
@@ -530,5 +533,6 @@
 	footer {
 		padding: 10px 20px;
 	}
-	
+
+
 }
