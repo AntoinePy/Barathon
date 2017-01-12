@@ -13,3 +13,6 @@ event_user:
 message_user:
     path: /userSpace/message
     defaults: { _controller: BarathonuserSpaceBundle:Message:message }
+bar_user:
+    path: /userSpace/bar
+    defaults: {_controller: BarathonuserSpaceBundle:Bar:bar }

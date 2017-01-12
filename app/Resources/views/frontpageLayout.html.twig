@@ -245,7 +245,7 @@
                             <li class="dropdown-menu-title">
                                 <span>Account Settings</span>
                             </li>
-                            <li><a href="#"><i class="halflings-icon user"></i> Profile</a></li>
+                            <li><a href="{{ path('fos_user_profile_show') }}"><i class="halflings-icon user"></i> Profile</a></li>
                             <li><a href="{{ path('fos_user_security_logout') }}"><i class="halflings-icon off"></i> Logout</a></li>
                         </ul>
                     </li>
@@ -269,7 +269,7 @@
                     <li><a href="#"><i class="icon-user"></i><span class="hidden-tablet"> Profil</span></a></li>
                     <li><a href="#"><i class="icon-envelope"></i><span class="hidden-tablet"> Messages</span></a></li>
                     <li><a href="#"><i class="icon-calendar"></i><span class="hidden-tablet"> Évènements</span></a></li>
-                    <li><a href="#"><img style="width: 20px; height: 20px;" src="{{ asset('assets/userSpace/img/beer_logo_sidebar.png') }}" alt=""><span class="hidden-tablet"> Bar près de chez vous</span></a></li>
+                    <li><a href="{{ path('bar_user') }}"><img style="width: 20px; height: 20px;" src="{{ asset('assets/userSpace/img/beer_logo_sidebar.png') }}" alt=""><span class="hidden-tablet"> Bar près de chez vous</span></a></li>
                     <li><a href="#"><i class="icon-eye-open"></i><span class="hidden-tablet"> À propos</span></a></li>
                 </ul>
             </div>

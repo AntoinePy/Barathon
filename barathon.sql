@@ -58,8 +58,7 @@ INSERT INTO evenement (idEvent, libelleEvent, idBar) VALUE
 CREATE TABLE IF NOT EXISTS client_evenement(
   idClient INT(10),
   idEvent int(10),
-  PRIMARY KEY (idEvent),
-  PRIMARY KEY (idClient),
+  PRIMARY KEY (idEvent,idClient),
   CONSTRAINT fk_client_cl_ev FOREIGN KEY (idClient) REFERENCES client (idclient),
   CONSTRAINT fk_evenement_cl_ev FOREIGN KEY (idEvent) REFERENCES evenement (idEvent)
 )DEFAULT CHARSET=utf8;
