@@ -1,37 +1,124 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="38bc1396-1719-46ba-bf4a-84f0e3e73848" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/frontPage/images/beer.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/img/bar.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/img/beer_logo_sidebar.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/img/bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/img/client.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/img/company.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/img/exemple.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/img/feature-image.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/img/feature2-image.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/img/header-phone.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/img/intro-image.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/img/loading.GIF" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/img/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/img/logo2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/img/screenshot.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Barathon/userSpaceBundle/Controller/EventController.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Barathon/userSpaceBundle/Controller/MessageController.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Barathon/userSpaceBundle/Controller/ProfilController.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Barathon/userSpaceBundle/Resources/views/userSpace/event.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Barathon/userSpaceBundle/Resources/views/userSpace/message.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Barathon/userSpaceBundle/Resources/views/userSpace/profile.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/userSpace/img/barathon.svg" />
+    <list default="true" id="38bc1396-1719-46ba-bf4a-84f0e3e73848" name="Default" comment="modification des layout&#10;séparation des styles dans web/assets/ (création de frontPage/ et userSpace/)">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/FOSUserBundle/translations/FOSUserBundle.af.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/FOSUserBundle/translations/FOSUserBundle.ar.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/FOSUserBundle/translations/FOSUserBundle.bg.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/FOSUserBundle/translations/FOSUserBundle.ca.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/FOSUserBundle/translations/FOSUserBundle.cs.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/FOSUserBundle/translations/FOSUserBundle.da.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/FOSUserBundle/translations/FOSUserBundle.de.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/FOSUserBundle/translations/FOSUserBundle.el.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/FOSUserBundle/translations/FOSUserBundle.en.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/FOSUserBundle/translations/FOSUserBundle.es.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/FOSUserBundle/translations/FOSUserBundle.et.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/FOSUserBundle/translations/FOSUserBundle.eu.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/FOSUserBundle/translations/FOSUserBundle.fa.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/FOSUserBundle/translations/FOSUserBundle.fi.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/FOSUserBundle/translations/FOSUserBundle.fr.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/FOSUserBundle/translations/FOSUserBundle.he.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/FOSUserBundle/translations/FOSUserBundle.hr.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/FOSUserBundle/translations/FOSUserBundle.hu.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/FOSUserBundle/translations/FOSUserBundle.id.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/FOSUserBundle/translations/FOSUserBundle.it.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/FOSUserBundle/translations/FOSUserBundle.ja.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/FOSUserBundle/translations/FOSUserBundle.ky.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/FOSUserBundle/translations/FOSUserBundle.lb.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/FOSUserBundle/translations/FOSUserBundle.lt.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/FOSUserBundle/translations/FOSUserBundle.lv.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/FOSUserBundle/translations/FOSUserBundle.nb.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/FOSUserBundle/translations/FOSUserBundle.nl.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/FOSUserBundle/translations/FOSUserBundle.pl.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/FOSUserBundle/translations/FOSUserBundle.pt.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/FOSUserBundle/translations/FOSUserBundle.pt_BR.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/FOSUserBundle/translations/FOSUserBundle.ro.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/FOSUserBundle/translations/FOSUserBundle.ru.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/FOSUserBundle/translations/FOSUserBundle.sk.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/FOSUserBundle/translations/FOSUserBundle.sl.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/FOSUserBundle/translations/FOSUserBundle.sr_Latn.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/FOSUserBundle/translations/FOSUserBundle.sv.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/FOSUserBundle/translations/FOSUserBundle.th.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/FOSUserBundle/translations/FOSUserBundle.tr.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/FOSUserBundle/translations/FOSUserBundle.uk.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/FOSUserBundle/translations/FOSUserBundle.vi.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/FOSUserBundle/translations/FOSUserBundle.zh_CN.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/FOSUserBundle/translations/validators.ar.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/FOSUserBundle/translations/validators.bg.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/FOSUserBundle/translations/validators.ca.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/FOSUserBundle/translations/validators.cs.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/FOSUserBundle/translations/validators.da.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/FOSUserBundle/translations/validators.de.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/FOSUserBundle/translations/validators.el.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/FOSUserBundle/translations/validators.en.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/FOSUserBundle/translations/validators.es.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/FOSUserBundle/translations/validators.eu.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/FOSUserBundle/translations/validators.fa.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/FOSUserBundle/translations/validators.fi.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/FOSUserBundle/translations/validators.fr.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/FOSUserBundle/translations/validators.he.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/FOSUserBundle/translations/validators.hr.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/FOSUserBundle/translations/validators.hu.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/FOSUserBundle/translations/validators.id.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/FOSUserBundle/translations/validators.it.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/FOSUserBundle/translations/validators.ja.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/FOSUserBundle/translations/validators.ky.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/FOSUserBundle/translations/validators.lt.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/FOSUserBundle/translations/validators.lv.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/FOSUserBundle/translations/validators.nb.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/FOSUserBundle/translations/validators.nl.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/FOSUserBundle/translations/validators.pl.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/FOSUserBundle/translations/validators.pt.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/FOSUserBundle/translations/validators.pt_BR.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/FOSUserBundle/translations/validators.ro.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/FOSUserBundle/translations/validators.ru.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/FOSUserBundle/translations/validators.sk.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/FOSUserBundle/translations/validators.sl.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/FOSUserBundle/translations/validators.sr_Latn.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/FOSUserBundle/translations/validators.sv.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/FOSUserBundle/translations/validators.th.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/FOSUserBundle/translations/validators.tr.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/FOSUserBundle/translations/validators.uk.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/FOSUserBundle/translations/validators.vi.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/FOSUserBundle/translations/validators.zh_CN.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/FOSUserBundle/views/ChangePassword/change_password.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/FOSUserBundle/views/ChangePassword/change_password_content.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/FOSUserBundle/views/Group/edit.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/FOSUserBundle/views/Group/edit_content.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/FOSUserBundle/views/Group/list.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/FOSUserBundle/views/Group/list_content.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/FOSUserBundle/views/Group/new.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/FOSUserBundle/views/Group/new_content.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/FOSUserBundle/views/Group/show.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/FOSUserBundle/views/Group/show_content.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/FOSUserBundle/views/Profile/edit.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/FOSUserBundle/views/Profile/edit_content.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/FOSUserBundle/views/Profile/show.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/FOSUserBundle/views/Profile/show_content.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/FOSUserBundle/views/Registration/check_email.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/FOSUserBundle/views/Registration/confirmed.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/FOSUserBundle/views/Registration/email.txt.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/FOSUserBundle/views/Registration/register.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/FOSUserBundle/views/Registration/register_content.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/FOSUserBundle/views/Resetting/check_email.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/FOSUserBundle/views/Resetting/email.txt.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/FOSUserBundle/views/Resetting/request.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/FOSUserBundle/views/Resetting/request_content.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/FOSUserBundle/views/Resetting/reset.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/FOSUserBundle/views/Resetting/reset_content.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/FOSUserBundle/views/Security/login.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/FOSUserBundle/views/Security/login_content.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/FOSUserBundle/views/layout.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Barathon/IndexBundle/Entity/User.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/Barathon.iml" afterPath="$PROJECT_DIR$/.idea/Barathon.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/AppKernel.php" afterPath="$PROJECT_DIR$/app/AppKernel.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Resources/views/frontpageLayout.html.twig" afterPath="$PROJECT_DIR$/app/Resources/views/frontpageLayout.html.twig" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/config/config.yml" afterPath="$PROJECT_DIR$/app/config/config.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/config/routing.yml" afterPath="$PROJECT_DIR$/app/config/routing.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/config/security.yml" afterPath="$PROJECT_DIR$/app/config/security.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/composer.lock" afterPath="$PROJECT_DIR$/composer.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Barathon/IndexBundle/Resources/views/Index/index.html.twig" afterPath="$PROJECT_DIR$/src/Barathon/IndexBundle/Resources/views/Index/index.html.twig" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Barathon/userSpaceBundle/Resources/config/routing.yml" afterPath="$PROJECT_DIR$/src/Barathon/userSpaceBundle/Resources/config/routing.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Barathon/userSpaceBundle/Resources/views/userSpace/homePage.html.twig" afterPath="$PROJECT_DIR$/src/Barathon/userSpaceBundle/Resources/views/userSpace/homePage.html.twig" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/assets/userSpace/css/style-responsive.css" afterPath="$PROJECT_DIR$/web/assets/userSpace/css/style-responsive.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/assets/userSpace/css/style.css" afterPath="$PROJECT_DIR$/web/assets/userSpace/css/style.css" />
     </list>
     <ignored path="Barathon.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -43,7 +130,6 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
@@ -53,101 +139,91 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="frontpageLayout.html.twig" pinned="false" current-in-tab="false">
+      <file leaf-file-name="routing.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/config/routing.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="6" column="15" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="homePage.html.twig" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Barathon/userSpaceBundle/Resources/views/userSpace/homePage.html.twig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="frontpageLayout.html.twig" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/Resources/views/frontpageLayout.html.twig">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4930">
-              <caret line="290" column="0" selection-start-line="290" selection-start-column="0" selection-end-line="290" selection-end-column="0" />
+            <state relative-caret-position="288">
+              <caret line="254" column="37" selection-start-line="254" selection-start-column="37" selection-end-line="254" selection-end-column="37" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ProfilController.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Barathon/userSpaceBundle/Controller/ProfilController.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="18" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="profile.html.twig" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Barathon/userSpaceBundle/Resources/views/userSpace/profile.html.twig">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="20" selection-end-column="14" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="config.yml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="config.yml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/config/config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="561">
-              <caret line="71" column="52" selection-start-line="71" selection-start-column="52" selection-end-line="71" selection-end-column="52" />
+            <state relative-caret-position="439">
+              <caret line="72" column="0" selection-start-line="72" selection-start-column="0" selection-end-line="72" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/assets/userSpace/css/style.css">
+      <file leaf-file-name="all.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/config/routing/all.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51204">
-              <caret line="3012" column="0" selection-start-line="3012" selection-start-column="0" selection-end-line="3012" selection-end-column="0" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MessageController.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Barathon/userSpaceBundle/Controller/MessageController.php">
+      <file leaf-file-name="index.html.twig" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Barathon/IndexBundle/Resources/views/Index/index.html.twig">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+            <state relative-caret-position="110">
+              <caret line="34" column="80" selection-start-line="34" selection-start-column="40" selection-end-line="34" selection-end-column="80" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style-responsive.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/assets/userSpace/css/style-responsive.css">
+      <file leaf-file-name="login_content.html.twig" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Resources/FOSUserBundle/views/Security/login_content.html.twig">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="9112">
-              <caret line="536" column="0" selection-start-line="536" selection-start-column="0" selection-end-line="536" selection-end-column="0" />
+            <state relative-caret-position="171">
+              <caret line="9" column="15" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="routing.yml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Barathon/userSpaceBundle/Resources/config/routing.yml">
+      <file leaf-file-name="layout.html.twig" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Resources/FOSUserBundle/views/layout.html.twig">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="68" selection-start-line="14" selection-start-column="68" selection-end-line="14" selection-end-column="68" />
+            <state relative-caret-position="57">
+              <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="10" selection-end-column="19" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="EventController.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Barathon/userSpaceBundle/Controller/EventController.php">
+      <file leaf-file-name="login.html.twig" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Resources/FOSUserBundle/views/Security/login.html.twig">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="16" column="69" selection-start-line="16" selection-start-column="69" selection-end-line="16" selection-end-column="69" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="message.html.twig" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Barathon/userSpaceBundle/Resources/views/userSpace/message.html.twig">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2805">
-              <caret line="165" column="14" selection-start-line="165" selection-start-column="14" selection-end-line="165" selection-end-column="14" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -176,8 +252,6 @@
       <list>
         <option value="$PROJECT_DIR$/src/Barathon/IndexBundle/Resources/views/Default/index.html.twig" />
         <option value="$PROJECT_DIR$/src/Barathon/IndexBundle/Controller/FrontPage.php" />
-        <option value="$PROJECT_DIR$/app/AppKernel.php" />
-        <option value="$PROJECT_DIR$/app/config/routing.yml" />
         <option value="$PROJECT_DIR$/src/Barathon/IndexBundle/Controller/DefaultController.php" />
         <option value="$PROJECT_DIR$/src/Barathon/IndexBundle/Resources/config/routing.yml" />
         <option value="$PROJECT_DIR$/src/Barathon/IndexBundle/Controller/FrontPageController.php" />
@@ -187,7 +261,6 @@
         <option value="$PROJECT_DIR$/web/assets/css/style.css" />
         <option value="$PROJECT_DIR$/web/assets/css/style-responsive.css" />
         <option value="$PROJECT_DIR$/app/Resources/views/layout.html.twig" />
-        <option value="$PROJECT_DIR$/src/Barathon/IndexBundle/Resources/views/Index/index.html.twig" />
         <option value="$PROJECT_DIR$/src/Barathon/userSpaceBundle/Resources/views/userSpace/homePage.html.twig" />
         <option value="$PROJECT_DIR$/src/Barathon/userSpaceBundle/Controller/ProfilController.php" />
         <option value="$PROJECT_DIR$/src/Barathon/userSpaceBundle/Controller/EventController.php" />
@@ -197,26 +270,36 @@
         <option value="$PROJECT_DIR$/src/Barathon/userSpaceBundle/Controller/MessageController.php" />
         <option value="$PROJECT_DIR$/web/assets/userSpace/css/style-responsive.css" />
         <option value="$PROJECT_DIR$/web/assets/userSpace/css/style.css" />
-        <option value="$PROJECT_DIR$/app/Resources/views/frontpageLayout.html.twig" />
         <option value="$PROJECT_DIR$/src/Barathon/userSpaceBundle/Resources/views/userSpace/profile.html.twig" />
+        <option value="$PROJECT_DIR$/app/config/parameters.yml" />
+        <option value="$PROJECT_DIR$/composer.json" />
+        <option value="$PROJECT_DIR$/app/AppKernel.php" />
+        <option value="$PROJECT_DIR$/src/Barathon/IndexBundle/Entity/User.php" />
+        <option value="$PROJECT_DIR$/app/config/security.yml" />
         <option value="$PROJECT_DIR$/app/config/config.yml" />
+        <option value="$PROJECT_DIR$/app/Resources/FOSUserBundle/views/layout.html.twig" />
+        <option value="$PROJECT_DIR$/app/config/routing.yml" />
+        <option value="$PROJECT_DIR$/app/Resources/FOSUserBundle/views/Security/login_content.html.twig" />
+        <option value="$PROJECT_DIR$/src/Barathon/IndexBundle/Resources/views/Index/index.html.twig" />
+        <option value="$PROJECT_DIR$/app/Resources/views/frontpageLayout.html.twig" />
       </list>
     </option>
   </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" />
-  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="PhpServers">
     <servers />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="-1" />
-    <option name="y" value="-4" />
-    <option name="width" value="1922" />
-    <option name="height" value="1085" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -243,28 +326,460 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Barathon" />
+              <option name="myItemId" value="TestBarathon" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Barathon" />
+              <option name="myItemId" value="TestBarathon" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TestBarathon" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TestBarathon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TestBarathon" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vendor" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TestBarathon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TestBarathon" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vendor" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="friendsofsymfony" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="user-bundle" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TestBarathon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TestBarathon" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vendor" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="friendsofsymfony" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="user-bundle" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Resources" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TestBarathon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TestBarathon" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TestBarathon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TestBarathon" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="Barathon" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="userSpaceBundle" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TestBarathon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TestBarathon" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Barathon" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="userSpaceBundle" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Resources" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="userSpace" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TestBarathon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TestBarathon" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Barathon" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="userSpaceBundle" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Resources" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="config" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TestBarathon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TestBarathon" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Barathon" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="IndexBundle" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TestBarathon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TestBarathon" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Barathon" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="IndexBundle" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Resources" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TestBarathon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TestBarathon" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Barathon" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="IndexBundle" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Resources" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Index" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TestBarathon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TestBarathon" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Barathon" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="IndexBundle" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Resources" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TestBarathon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TestBarathon" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Barathon" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="IndexBundle" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Entity" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TestBarathon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TestBarathon" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TestBarathon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TestBarathon" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Resources" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TestBarathon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TestBarathon" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Resources" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FOSUserBundle" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TestBarathon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TestBarathon" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Resources" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FOSUserBundle" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Security" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TestBarathon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TestBarathon" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Resources" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FOSUserBundle" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TestBarathon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TestBarathon" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="config" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -274,20 +789,23 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/web/assets/userSpace/img" />
-      <recent name="$PROJECT_DIR$/web/assets" />
-      <recent name="$PROJECT_DIR$/web/assets/images" />
-      <recent name="$PROJECT_DIR$/web/bundles/framework" />
-      <recent name="$PROJECT_DIR$/web/bundles/framework/images" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/Barathon/userSpaceBundle/Resources/views/userSpace" />
       <recent name="$PROJECT_DIR$/app/Resources/views" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\wampTest\www\TestBarathon\app\Resources\FOSUserBundle" />
+      <recent name="$PROJECT_DIR$/web/assets/userSpace/img" />
+      <recent name="$PROJECT_DIR$/web/assets" />
+      <recent name="$PROJECT_DIR$/web/assets/images" />
+      <recent name="$PROJECT_DIR$/web/bundles/framework" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
       <method />
     </configuration>
     <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
@@ -315,6 +833,19 @@
       <scripts />
       <node-interpreter value="project" />
       <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
       <method />
     </configuration>
   </component>
@@ -346,6 +877,8 @@
       <workItem from="1483614063210" duration="294000" />
       <workItem from="1483615188367" duration="7178000" />
       <workItem from="1483627965008" duration="673000" />
+      <workItem from="1483629176728" duration="2899000" />
+      <workItem from="1484213141214" duration="3113000" />
     </task>
     <task id="LOCAL-00001" summary="add layout in app/Ressources/views">
       <created>1481367533267</created>
@@ -379,19 +912,19 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30855000" />
+    <option name="totallyTimeSpent" value="36867000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1" y="-4" width="1922" height="1085" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29615796" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30332828" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32939914" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32939914" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32786885" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32939914" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
@@ -428,55 +961,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/web/assets/css/css-index-orange.css" />
-    <entry file="file://$PROJECT_DIR$/app/AppKernel.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/AppCache.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/autoload.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/assets/css/animate.css" />
-    <entry file="file://$PROJECT_DIR$/web/assets/css/bootstrap.css" />
-    <entry file="file://$PROJECT_DIR$/web/assets/fonts/icon-7-stroke/css/pe-icon-7-stroke.css" />
-    <entry file="file://$PROJECT_DIR$/web/assets/images/images/.idea/misc.xml" />
-    <entry file="file://$PROJECT_DIR$/web/assets/css/ie.css" />
-    <entry file="file://$PROJECT_DIR$/src/Barathon/userSpaceBundle/Resources/views/Default/index.html.twig" />
-    <entry file="file://$PROJECT_DIR$/src/Barathon/userSpaceBundle/Controller/DefaultController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="12" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Barathon/IndexBundle/Resources/views/User/connexion.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Barathon/IndexBundle/Resources/config/routing.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Barathon/IndexBundle/Controller/FrontPageController.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -582,13 +1066,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Barathon/IndexBundle/Resources/views/Index/index.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2193">
-          <caret line="129" column="34" selection-start-line="129" selection-start-column="34" selection-end-line="129" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/Resources/views/base.html.twig">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -617,42 +1094,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Barathon/userSpaceBundle/Resources/views/userSpace/homePage.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Barathon/userSpaceBundle/Resources/views/userSpace/event.html.twig">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="34" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Barathon/userSpaceBundle/Controller/EventController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="16" column="69" selection-start-line="16" selection-start-column="69" selection-end-line="16" selection-end-column="69" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Barathon/userSpaceBundle/Resources/config/routing.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="68" selection-start-line="14" selection-start-column="68" selection-end-line="14" selection-end-column="68" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Barathon/userSpaceBundle/Controller/MessageController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -660,54 +1105,193 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="18" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Barathon/userSpaceBundle/Resources/views/userSpace/message.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2805">
-          <caret line="165" column="14" selection-start-line="165" selection-start-column="14" selection-end-line="165" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/assets/userSpace/css/style-responsive.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="9112">
-          <caret line="536" column="0" selection-start-line="536" selection-start-column="0" selection-end-line="536" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/assets/userSpace/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51204">
-          <caret line="3012" column="0" selection-start-line="3012" selection-start-column="0" selection-end-line="3012" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Resources/views/frontpageLayout.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4930">
-          <caret line="290" column="0" selection-start-line="290" selection-start-column="0" selection-end-line="290" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Barathon/userSpaceBundle/Resources/views/userSpace/profile.html.twig">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
+        <state relative-caret-position="76">
           <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="20" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/assets/userSpace/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="827">
+          <caret line="3012" column="0" selection-start-line="3012" selection-start-column="0" selection-end-line="3012" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Barathon/userSpaceBundle/Controller/MessageController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/assets/userSpace/css/style-responsive.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="827">
+          <caret line="536" column="0" selection-start-line="536" selection-start-column="0" selection-end-line="536" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Barathon/userSpaceBundle/Controller/EventController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="16" column="69" selection-start-line="16" selection-start-column="69" selection-end-line="16" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Barathon/userSpaceBundle/Resources/views/userSpace/message.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="827">
+          <caret line="165" column="14" selection-start-line="165" selection-start-column="14" selection-end-line="165" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/config_dev.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" column="31" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/AppKernel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="19" column="47" selection-start-line="19" selection-start-column="47" selection-end-line="19" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/security.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="515">
+          <caret line="28" column="46" selection-start-line="28" selection-start-column="46" selection-end-line="28" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/parameters.yml.dist">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/parameters.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Barathon/IndexBundle/Entity/User.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+          <folding>
+            <element signature="e#132#174#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Resources/FOSUserBundle/translations/validators.ar.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/config/routing/all.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Resources/FOSUserBundle/views/Security/login.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Resources/FOSUserBundle/views/Security/login_content.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="15" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Resources/FOSUserBundle/views/layout.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="10" selection-end-column="19" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/config/config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="71" column="52" selection-start-line="71" selection-start-column="52" selection-end-line="71" selection-end-column="52" />
+        <state relative-caret-position="439">
+          <caret line="72" column="0" selection-start-line="72" selection-start-column="0" selection-end-line="72" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Barathon/userSpaceBundle/Resources/config/routing.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/routing.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="15" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Barathon/userSpaceBundle/Resources/views/userSpace/homePage.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Barathon/IndexBundle/Resources/views/Index/index.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="34" column="80" selection-start-line="34" selection-start-column="40" selection-end-line="34" selection-end-column="80" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Resources/views/frontpageLayout.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="254" column="37" selection-start-line="254" selection-start-column="37" selection-end-line="254" selection-end-column="37" />
           <folding />
         </state>
       </provider>
