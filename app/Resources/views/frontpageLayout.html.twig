@@ -6,7 +6,7 @@
     <meta charset="utf-8">
     <title>Barathon</title>
     <meta name="description" content="Bootstrap Metro Dashboard">
-    <meta name="author" content="Dennis Ji">
+    <meta name="author" content="{{user.username}}">
     <meta name="keyword" content="Metro, Metro UI, Dashboard, Bootstrap, Admin, Template, Theme, Responsive, Fluid, Retina">
     <!-- end: Meta -->
 
@@ -91,7 +91,7 @@
                             </li>
 
                             <li class="dropdown-menu-sub-footer">
-                                <a>View all notifications</a>
+                                <a>Voir Toutes les modifications</a>
                             </li>
                         </ul>
                     </li>
@@ -154,7 +154,7 @@
                                     <span class="avatar"><img src="img/avatar.jpg" alt="Avatar"></span>
 										<span class="header">
 											<span class="from">
-										    	Dennis Ji
+										    	{{user.username}}
 										     </span>
 											<span class="time">
 										    	6 min
@@ -170,7 +170,7 @@
                                     <span class="avatar"><img src="img/avatar.jpg" alt="Avatar"></span>
 										<span class="header">
 											<span class="from">
-										    	Dennis Ji
+										    	{{user.username}}
 										     </span>
 											<span class="time">
 										    	56 min
@@ -186,7 +186,7 @@
                                     <span class="avatar"><img src="img/avatar.jpg" alt="Avatar"></span>
 										<span class="header">
 											<span class="from">
-										    	Dennis Ji
+										    	{{user.username}}
 										     </span>
 											<span class="time">
 										    	3 hours
@@ -202,7 +202,7 @@
                                     <span class="avatar"><img src="img/avatar.jpg" alt="Avatar"></span>
 										<span class="header">
 											<span class="from">
-										    	Dennis Ji
+										    	{{user.username}}
 										     </span>
 											<span class="time">
 										    	yesterday
@@ -218,7 +218,7 @@
                                     <span class="avatar"><img src="img/avatar.jpg" alt="Avatar"></span>
 										<span class="header">
 											<span class="from">
-										    	Dennis Ji
+										    	{{user.username}}
 										     </span>
 											<span class="time">
 										    	Jul 25, 2012
@@ -230,23 +230,24 @@
                                 </a>
                             </li>
                             <li>
-                                <a class="dropdown-menu-sub-footer">View all messages</a>
+                                <a href="{{ path('message_user') }}" class="dropdown-menu-sub-footer">Voir tout les messages</a>
                             </li>
                         </ul>
                     </li>
 
                     <!-- start: User Dropdown -->
                     <li class="dropdown">
-                        <a class="btn dropdown-toggle" data-toggle="dropdown" href="#">
-                            <i class="halflings-icon white user"></i> User
+                            <a class="btn dropdown-toggle" data-toggle="dropdown" href="#">
+                            <i class="halflings-icon white user"></i>
+                                {{ user.username }}
                             <span class="caret"></span>
                         </a>
                         <ul class="dropdown-menu">
                             <li class="dropdown-menu-title">
-                                <span>Account Settings</span>
+                                <span>Options</span>
                             </li>
-                            <li><a href="{{ path('fos_user_profile_show') }}"><i class="halflings-icon user"></i> Profile</a></li>
-                            <li><a href="{{ path('fos_user_security_logout') }}"><i class="halflings-icon off"></i> Logout</a></li>
+                            <li><a href="{{ path('fos_user_profile_show') }}"><i class="halflings-icon user"></i> Profil </a></li>
+                            <li><a href="{{ path('fos_user_security_logout') }}"><i class="halflings-icon off"></i> Se déconnecter</a></li>
                         </ul>
                     </li>
                     <!-- end: User Dropdown -->
@@ -266,11 +267,11 @@
         <div id="sidebar-left" class="span2">
             <div class="nav-collapse sidebar-nav">
                 <ul class="nav nav-tabs nav-stacked main-menu">
-                    <li><a href="#"><i class="icon-user"></i><span class="hidden-tablet"> Profil</span></a></li>
-                    <li><a href="#"><i class="icon-envelope"></i><span class="hidden-tablet"> Messages</span></a></li>
-                    <li><a href="#"><i class="icon-calendar"></i><span class="hidden-tablet"> Évènements</span></a></li>
+                    <li><a href="{{ path('fos_user_profile_show') }}"><i class="icon-user"></i><span class="hidden-tablet"> Profil</span></a></li>
+                    <li><a href="{{ path('message_user') }}"><i class="icon-envelope"></i><span class="hidden-tablet"> Messages</span></a></li>
+                    <li><a href="{{ path('event_user') }}"><i class="icon-calendar"></i><span class="hidden-tablet"> Évènements</span></a></li>
                     <li><a href="{{ path('bar_user') }}"><img style="width: 20px; height: 20px;" src="{{ asset('assets/userSpace/img/beer_logo_sidebar.png') }}" alt=""><span class="hidden-tablet"> Bar près de chez vous</span></a></li>
-                    <li><a href="#"><i class="icon-eye-open"></i><span class="hidden-tablet"> À propos</span></a></li>
+                    <li><a href="{{ path('test_front_page') }}"><i class="icon-eye-open"></i><span class="hidden-tablet"> À propos</span></a></li>
                 </ul>
             </div>
         </div>
@@ -356,6 +357,5 @@
 
     <script src="{{ asset('assets/userSpace/js/custom.js') }}"></script>
     <!-- end: JavaScript-->
-
 </body>
 </html>

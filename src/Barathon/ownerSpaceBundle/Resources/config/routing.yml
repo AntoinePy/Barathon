@@ -1,0 +1,15 @@
+test_front_page1:
+    path: /
+    defaults: { _controller: BarathonownerSpaceBundle:OwnerHomePage:ownerhomePage }
+
+event_owner:
+    path: /event
+    defaults: { _controller: BarathonownerSpaceBundle:OwnerEvent:event }
+
+message_owner:
+    path: /message
+    defaults: { _controller: BarathonownerSpaceBundle:Message:message }
+
+bar_owner:
+    path: /bar
+    defaults: {_controller: BarathonownerSpaceBundle:Bar:bar }

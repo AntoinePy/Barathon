@@ -7,7 +7,7 @@
                 {{ 'layout.logout'|trans({}, 'FOSUserBundle') }}
             </a>
         {% else %}
-            <a href="{{ path('fos_user_security_login') }}">{{ 'layout.login'|trans({}, 'FOSUserBundle') }}</a>
+            {#<a href="{{ path('fos_user_security_login') }}">{{ 'layout.login'|trans({}, 'FOSUserBundle') }}</a>#}
         {% endif %}
     </div>
 
@@ -25,6 +25,10 @@
         {% block fos_user_content %}
         {% endblock fos_user_content %}
     </div>
+
+    {% if is_granted("IS_AUTHENTICATED_REMEMBERED") %}
+        <a href="{{ path('fos_user_profile_show') }}"> vers votre profil</a>
+    {% endif %}
 
 {% endblock %}
 

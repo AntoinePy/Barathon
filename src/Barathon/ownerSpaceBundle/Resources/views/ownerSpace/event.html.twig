@@ -1,0 +1,40 @@
+{% extends 'ownerSpaceLayout.html.twig' %}
+{% block page %}
+    <div class="col-lg-12">
+        <div class="col-lg-6">
+            <h1>Créer un évenement </h1>
+            <form method="post" action="">
+                <p>
+                    <label>Nom de l'évenement</label>  <input type="text" name="nom" />
+                </p>
+            </form>
+            <form method="post" action="">
+                <p>
+                    <label>Date</label> <input type="date" />
+                </p>
+            </form>
+
+            <form method="post" action="">
+                <p>
+                    <label>Prix</label>  <input type="number" name="prix" />
+                </p>
+            </form>
+            <form method="post" action="">
+                <p>
+                    <label>Prix</label>  <input type="number" name="prix" />
+                </p>
+            </form>
+            <form method="post" action="">
+                <p>
+                    <label for="description">
+                        Description de l'évènement
+                    </label>
+                    <br />
+
+                    <textarea name="ameliorer" id="ameliorer" rows="10" cols="50">
+                       </textarea>
+                </p>
+            </form>
+        </div>
+    </div>
+{% endblock %}

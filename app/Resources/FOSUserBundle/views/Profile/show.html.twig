@@ -1,8 +1,22 @@
 {% extends 'frontpageLayout.html.twig' %}
 {% block page %}
+    {% block fos_user_content %}
+        <h1>Bonjour, {{ user.username }}</h1>
+        <br><br>
+        <br>
+        <div class="container-fluid well span6">
+        <div class="col-lg-6">
+        <div class="span2" >
+        <img src="https://secure.gravatar.com/avatar/de9b11d0f9c0569ba917393ed5e5b3ab?s=140&r=g&d=mm" class="img-circle">
+        </div>
+        <div class="span8">
+            {% include "@FOSUser/Profile/show_content.html.twig" %}
+        </div>
+            <a href="{{ path('fos_user_security_logout') }}">déconnexion</a><br>
+            <a href="{{ path('fos_user_change_password') }}">Changer de mot de passe</a><br>
+            <a href="{{ path('fos_user_profile_edit') }}">Modifier le profil</a><br>
+        </div>
+        </div>
 
-{% block fos_user_content %}
-{% include "@FOSUser/Profile/show_content.html.twig" %}
-{% endblock fos_user_content %}
-
+    {% endblock fos_user_content %}
 {% endblock %}

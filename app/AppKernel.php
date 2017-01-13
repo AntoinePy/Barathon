@@ -17,6 +17,7 @@ class AppKernel extends Kernel
             new Sensio\Bundle\FrameworkExtraBundle\SensioFrameworkExtraBundle(),
             new Barathon\IndexBundle\BarathonIndexBundle(),
             new Barathon\userSpaceBundle\BarathonuserSpaceBundle(),
+            new Barathon\ownerSpaceBundle\BarathonownerSpaceBundle(),
             new FOS\UserBundle\FOSUserBundle(),
         ];
 

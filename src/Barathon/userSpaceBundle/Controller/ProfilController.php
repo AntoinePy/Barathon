@@ -9,11 +9,20 @@
 namespace Barathon\userSpaceBundle\Controller;
 
 use Symfony\Bundle\FrameworkBundle\Controller\Controller;
+use FOS\UserBundle\Model\UserInterface;
+use Symfony\Component\EventDispatcher\EventDispatcherInterface;
+use Symfony\Component\Security\Core\Exception\AccessDeniedException;
 
 class ProfilController extends Controller
 {
     public function profilAction()
     {
-        return $this->render('BarathonuserSpaceBundle:userSpace:profile.html.twig');
+        $user = $this->getUser();
+        if (!is_object($user) || !$user instanceof UserInterface) {
+            throw new AccessDeniedException('This user does not have access to this section.');
+        }
+        
+        return $this->render('BarathonuserSpaceBundle:userSpace:profile.html.twig',array(
+            'user' => $user,));
     }
 }
