@@ -3010,3 +3010,11 @@ ul.messagesList li span.date {
 	background-color: #5b281b;
 }
 
+.carousel-bar-inner > .item > img,
+.carousel-bar-inner > .item > a > img {
+    margin: auto;
+}
+.img-carousel-bar{
+    width:380px ;
+    height:270px
+}

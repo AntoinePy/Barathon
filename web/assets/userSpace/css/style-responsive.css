@@ -536,3 +536,7 @@
 
 
 }
+.carousel-inner > .item > img,
+.carousel-inner > .item > a > img {;
+	margin: auto;
+}
